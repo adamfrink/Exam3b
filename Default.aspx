@@ -3,18 +3,18 @@
 <!DOCTYPE html>
 
 <html xmlns="http://www.w3.org/1999/xhtml">
-<head runat="server">
+<head id="Head1" runat="server">
     <title></title>
 </head>
 <body>
-    <form id="form1" runat="server">
+    <form id="form2" runat="server">
     <div>
-    
+    <h2>
         Welcome to 6K:183<br />
-        Software Design and Development<br />
-        </div>
+        Software Design and Development </h2> <br />
+   </div>
    
-      <div style="width: 212px; height: 485px">
+      <div style="width: 212px; height: 485px; float:left;">
 
 
 
@@ -27,8 +27,9 @@
               <asp:ListItem>Spanish</asp:ListItem>
           </asp:DropDownList>
           <br />
+    </div>
 
-        <div style="width: 450px; height: 486px; margin-left: 370px; margin-top: 0px">
+        <div style="width: 450px; height: 486px; margin-top: 0px; padding-left:15px; border-left:1px solid black; float:left">
 
 
             <asp:Label ID="Label2" runat="server" Text="My name is:"></asp:Label>
@@ -56,8 +57,6 @@
             <asp:Button ID="Button1" runat="server" Text="Submit" />
             <br />
 &nbsp;</div>
-
-      </div>  
 
          </form>
 </body>
