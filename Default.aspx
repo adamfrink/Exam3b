@@ -5,13 +5,21 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head id="Head1" runat="server">
     <title></title>
+     <link rel="stylesheet" type="text/css" href="./StyleSheet.css" />
+  
+    <style type="text/css">
+        .auto-style1 {
+            text-align: center;
+        }
+    </style>
+  
 </head>
 <body>
     <form id="form2" runat="server">
-    <div>
-    <h2>
-        Welcome to 6K:183<br />
-        Software Design and Development </h2> <br />
+    <div class="center">
+      <h1 class="auto-style1">  Welcome to 6K:183</h1>
+       <h2 class="auto-style1"> Software Design and Development </h2> 
+        <br />
    </div>
    
       <div style="width: 212px; height: 485px; float:left;">
