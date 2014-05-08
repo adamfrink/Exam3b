@@ -9,8 +9,7 @@
   
     <style type="text/css">
         .auto-style1 {
-            text-align: center;
-        }
+            text-align: center;}
     </style>
   
 </head>
@@ -21,10 +20,11 @@
        <h2 class="auto-style1"> Software Design and Development </h2> 
         <br />
    </div>
-   
-      <div style="width: 212px; height: 485px; float:left;">
+   <div class="pushleft">
+      <div class="chooseLang">
 
 
+          <br />
 
 
           <asp:Label ID="Label1" runat="server" Text="Please choose your language:"></asp:Label>
@@ -34,10 +34,12 @@
               <asp:ListItem>English</asp:ListItem>
               <asp:ListItem>Spanish</asp:ListItem>
           </asp:DropDownList>
-          <br />
     </div>
 
-        <div style="width: 450px; height: 486px; margin-top: 0px; padding-left:15px; border-left:1px solid black; float:left">
+        <div class="enterInfo">
+
+
+            <br />
 
 
             <asp:Label ID="Label2" runat="server" Text="My name is:"></asp:Label>
@@ -55,7 +57,7 @@
             <asp:Label ID="Label4" runat="server" Text="I plan to graduate on:"></asp:Label>
             <br />
 &nbsp;&nbsp;&nbsp;
-            <asp:Calendar ID="Calendar1" runat="server" style="margin-top: 0px"></asp:Calendar>
+            <asp:Calendar ID="Calendar1" runat="server" style="margin-top: 0px" Height="114px" Width="153px"></asp:Calendar>
             <br />
             <asp:Label ID="Label5" runat="server" Text="When I graduate, I hope to earn"></asp:Label>
 &nbsp;&nbsp;
@@ -66,6 +68,7 @@
             <br />
 &nbsp;</div>
 
+       </div>
          </form>
 </body>
 </html>

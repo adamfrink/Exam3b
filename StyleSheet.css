@@ -8,4 +8,25 @@
  margin-bottom:auto;
  width:60%;
 }
-   
+
+.pushleft {
+    margin-left: 300px;
+
+}
+
+.chooseLang {
+    width: 225px;
+    height: 485px;
+    float: left;
+    padding-left: 15px;
+    border: 1px solid black;
+}
+
+.enterInfo {
+    width: 450px;
+    height: 486px;
+    margin-top: 0px;
+    padding-left: 15px;
+    border: 1px solid black;
+    float: left;
+}
