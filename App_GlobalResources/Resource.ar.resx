@@ -141,4 +141,10 @@
   <data name="maleRadioButton" xml:space="preserve">
     <value>ذكر</value>
   </data>
+  <data name="Label6" xml:space="preserve">
+    <value>6K: مرحبا بكم في183</value>
+  </data>
+  <data name="Label7" xml:space="preserve">
+    <value>تصميم وتطوير</value>
+  </data>
 </root>

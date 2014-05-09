@@ -138,6 +138,12 @@
   <data name="Label5" xml:space="preserve">
     <value>When I graduate, I hope to earn</value>
   </data>
+  <data name="Label6" xml:space="preserve">
+    <value>Welcome to 6K:183</value>
+  </data>
+  <data name="Label7" xml:space="preserve">
+    <value>Software Design and Development</value>
+  </data>
   <data name="maleRadioButton" xml:space="preserve">
     <value>Male</value>
   </data>

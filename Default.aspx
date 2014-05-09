@@ -16,8 +16,12 @@
 <body>
     <form id="form2" runat="server">
     <div class="center">
-      <h1 class="auto-style1">  Welcome to 6K:183</h1>
-       <h2 class="auto-style1"> Software Design and Development </h2> 
+      <h1 class="auto-style1">  
+          <asp:Label ID="Label6" runat="server" Text="<%$ Resources:Resource, Label6 %>"></asp:Label>
+        </h1>
+       <h2 class="auto-style1"> 
+           <asp:Label ID="Label7" runat="server" Text="<%$ Resources:Resource, Label7 %>"></asp:Label>
+&nbsp;</h2> 
         <br />
    </div>
    <div class="pushleft">
