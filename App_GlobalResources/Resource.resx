@@ -147,4 +147,7 @@
   <data name="maleRadioButton" xml:space="preserve">
     <value>Male</value>
   </data>
+  <data name="Label8" xml:space="preserve">
+    <value>I wish you well in your career after graduation. I hope you earn</value>
+  </data>
 </root>

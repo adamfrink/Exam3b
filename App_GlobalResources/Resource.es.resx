@@ -147,4 +147,7 @@
   <data name="maleRadioButton" xml:space="preserve">
     <value>Masculino</value>
   </data>
+  <data name="Label8" xml:space="preserve">
+    <value>Te deseo lo mejor en su carrera después de la graduación. Espero que usted gana</value>
+  </data>
 </root>

@@ -20,6 +20,7 @@ Partial Class _Default
 
     Protected Sub Page_Load1561(ByVal sender As Object, ByVal e As EventArgs) Handles Me.Load, DropDownList1.SelectedIndexChanged
         Dim dollar As Decimal
+        dollar = Val(TextBox2.Text)
         TextBox2.Text = String.Format("{0:c}", dollar)
     End Sub
 
@@ -27,4 +28,10 @@ Partial Class _Default
 
 
 
+    Protected Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
+
+        Response.Redirect("./222Default.aspx?n=" + TextBox1.Text + "&m=" + TextBox2.Text + "&lang=" + DropDownList1.SelectedValue +
+                         "&cal" + Calendar1.SelectedDate)
+
+    End Sub
 End Class
