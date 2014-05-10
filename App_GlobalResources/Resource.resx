@@ -148,6 +148,27 @@
     <value>Male</value>
   </data>
   <data name="Label8" xml:space="preserve">
+    <value>I hope you have a great day when you graduate on</value>
+  </data>
+  <data name="color" xml:space="preserve">
+    <value>LightBlue</value>
+  </data>
+  <data name="fLabel" xml:space="preserve">
+    <value>Ms.</value>
+  </data>
+  <data name="helloLabel" xml:space="preserve">
+    <value>Hello,</value>
+  </data>
+  <data name="mLabel" xml:space="preserve">
+    <value>Mr.</value>
+  </data>
+  <data name="salLabel" xml:space="preserve">
+    <value>as a salary in your first job!</value>
+  </data>
+  <data name="visitLabel" xml:space="preserve">
+    <value>Please visit me on</value>
+  </data>
+  <data name="wellLabel" xml:space="preserve">
     <value>I wish you well in your career after graduation. I hope you earn</value>
   </data>
 </root>

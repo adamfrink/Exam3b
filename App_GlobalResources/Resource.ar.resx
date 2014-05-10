@@ -147,4 +147,28 @@
   <data name="Label7" xml:space="preserve">
     <value>تصميم وتطوير</value>
   </data>
+  <data name="color" xml:space="preserve">
+    <value>yellow</value>
+  </data>
+  <data name="fLabel" xml:space="preserve">
+    <value>السيدة</value>
+  </data>
+  <data name="helloLabel" xml:space="preserve">
+    <value>مرحبا</value>
+  </data>
+  <data name="Label8" xml:space="preserve">
+    <value>أن يكون لديك</value>
+  </data>
+  <data name="mLabel" xml:space="preserve">
+    <value>سيد</value>
+  </data>
+  <data name="salLabel" xml:space="preserve">
+    <value>كما راتبا في وظيفتك الأولى!</value>
+  </data>
+  <data name="visitLabel" xml:space="preserve">
+    <value>يرجى زيارة</value>
+  </data>
+  <data name="wellLabel" xml:space="preserve">
+    <value>أتمنى لكم التوفيق في حياتك المهنية بعد التخرج. آمل أن تكسب</value>
+  </data>
 </root>
